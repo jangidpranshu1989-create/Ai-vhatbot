@@ -1,0 +1,5 @@
+{
+  "name": "VibeAI",
+  "description": "A world-class AI Orchestrator with Sigma vibes, combining Search, Pro reasoning, and Flash speed.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"]
+}
